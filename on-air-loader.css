@@ -4,7 +4,7 @@
   text-transform: uppercase;
 
 }
-.text{
+.onair{
   background: linear-gradient(23deg, #28e3b3, #2892e3, #7b28e3, #e3286c, #28e3d9, #e3dc28, #28e355, #e3a228);
 background-size: 1600% 1600%;
 -webkit-animation: AnimationName 30s ease infinite;
@@ -12,7 +12,7 @@ background-size: 1600% 1600%;
 -o-animation: AnimationName 30s ease infinite;
 animation: AnimationName 30s ease infinite;
 }
-.text{
+.onair{
   text-align: center;
   color: #000;
   background-clip: text;
